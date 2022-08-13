@@ -119,7 +119,7 @@ class APart:
         
     def read(self):
         s = self.ser.read(1024)
-        print(s.decode('utf-8'))
+        #print(s.decode('utf-8'))
         self.ser.close();
 
     def flush(self):
