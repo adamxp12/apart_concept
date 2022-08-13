@@ -34,7 +34,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-setup(name='pymonoprice',
+setup(name='apart_concept',
       version=VERSION,
       description='Basic Python Module for Apart Concept Amplifiers',
       url='https://github.com/adamxp12/apart_concept',
